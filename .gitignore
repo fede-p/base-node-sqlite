@@ -1,4 +1,10 @@
 # Logs
+node_modules
+backup
+log
+dataBase.sqlite
+
+# Logs
 logs
 *.log
 npm-debug.log*
