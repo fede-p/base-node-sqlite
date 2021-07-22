@@ -21,7 +21,7 @@
     "simple-node-logger": "^18.12.22",
     "sqlite": "^3.0.3",
     "sqlite3": "^4.1.1",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
